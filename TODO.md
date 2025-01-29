@@ -5,7 +5,6 @@ We will use this TODO file to keep track of any tasks that we need to do and sha
 ### TODO 
 
 For Wednesday 1/29:
-- [ ] Read about MLPs
 - [ ] Implement an MLP for the MNIST dataset
 - [ ] Prepare a code review of the dataset to discuss in the next meeting.
     - Easiest way to do this is include comments in your code 
@@ -33,3 +32,4 @@ Further down:
 
 - [x] Create Github repo and add Marco.
 - [x] Read the GNNs article
+- [x] Read about MLPs
