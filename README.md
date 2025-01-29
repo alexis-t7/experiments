@@ -7,7 +7,7 @@ The second section will contain articles relevant to programming resources.
 
 ## Readings
 - [x] [Article introducing GNNs](https://distill.pub/2021/gnn-intro/).
-- [ ] [Multi-Layer Perceptron (MLP)](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee9314)
+- [x] [Multi-Layer Perceptron (MLP)](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee9314)
 - [ ] [Convolutional Neural Network (CNN)](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
     - Ignore the code, they use tensorflow instead of pytorch.
 - [ ] [Neural Sheaf Diffusion](https://arxiv.org/pdf/2202.04579)
